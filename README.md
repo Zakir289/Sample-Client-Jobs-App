@@ -23,5 +23,5 @@ dependents are changed.
 
 ### Output screen shots 
 1. CLients page ![ CLients page](https://github.com/Zakir289/Sample-Client-Jobs-App/blob/master/output/CLients.PNG)
-2. Client page ![CLient Page] (https://github.com/Zakir289/Sample-Client-Jobs-App/blob/master/output/Client.PNG)
-3. Job Page ![Job page] (https://github.com/Zakir289/Sample-Client-Jobs-App/blob/master/output/Job.PNG)
+2. Client page ![CLient Page](https://github.com/Zakir289/Sample-Client-Jobs-App/blob/master/output/Client.PNG)
+3. Job Page ![Job page](https://github.com/Zakir289/Sample-Client-Jobs-App/blob/master/output/Job.PNG)
