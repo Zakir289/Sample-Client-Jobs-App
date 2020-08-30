@@ -1,0 +1,12 @@
+.wrapper{
+    background-color: lightblue;
+    height: 100vh;
+    padding: 100px 50px 50px;
+    box-sizing: border-box;
+}
+
+.wrapper > h1{
+    text-align: center;
+}
+
+

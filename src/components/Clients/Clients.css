@@ -1,0 +1,8 @@
+.clients-container{
+    padding: 30px;
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
