@@ -19,3 +19,9 @@ dependents are changed.
 8. **moment** is used to calculate Date related data.
 9.  eslint and prettier is used with standard mode Airbnb
  10. To Keep things simple, No third party library is used for Table.     
+
+
+### Output screen shots 
+1. CLients page ![ CLients page](https://github.com/Zakir289/Sample-Client-Jobs-App/blob/master/output/CLients.PNG)
+2. Client page ![CLient Page] (https://github.com/Zakir289/Sample-Client-Jobs-App/blob/master/output/Client.PNG)
+3. Job Page ![Job page] (https://github.com/Zakir289/Sample-Client-Jobs-App/blob/master/output/Job.PNG)
