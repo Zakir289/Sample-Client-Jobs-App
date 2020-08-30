@@ -1,7 +1,7 @@
 
 ## Steps to run the project
 1. npm install 
-2. npm run start (by default starts in 3000, if port is occuppied changed it accordingly in 3000)
+2. npm run start (by default starts in 3000, if port is occuppied changed it accordingly in start.js)
 
 #### Overview implementation of the project
 
